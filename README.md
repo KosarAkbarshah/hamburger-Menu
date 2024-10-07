@@ -1,6 +1,6 @@
 # hamburger-Menu-with Js🍔
 
-Hamburger menu with css3 animation and JS!
+Hamburger menu with CSS3 animation and JS!
 
 
 ![Screenshot 2024-10-07 053108](https://github.com/user-attachments/assets/329018af-e13a-451f-a72a-05284104366b)
